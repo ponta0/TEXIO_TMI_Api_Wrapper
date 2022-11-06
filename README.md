@@ -1,6 +1,7 @@
 # TEXIO TMI_Apiラッパー
 
 PythonからTEXIOの電源を制御するためのラッパーです。
+
 使用するためには[TEXIOが提供するドライバとライブラリ](https://www.texio.co.jp/uploads/PWA_Dr_API310B.zip)が必要です。
 
 使用例 (example.py)
